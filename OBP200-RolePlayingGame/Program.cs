@@ -1,7 +1,7 @@
 ﻿using System.Text;
 
 namespace OBP200_RolePlayingGame;
-
+// Kommentar gjord av Crille
 
 class Program
 {
